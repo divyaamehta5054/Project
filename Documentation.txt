@@ -1,0 +1,38 @@
+* Online shopping For shoes
+
+1. Login
+2. Admin
+3. Customer
+4. Product
+5. category
+6. Order
+7. Payment
+8. city 
+9. feedback
+10.state
+
+
+1. Admin
+	-login
+	-manage user
+	-manage categories
+	-manage Products
+	-manage feedback
+	-manage cart
+	-manage Orders
+	-manage payments
+
+2. User
+	-Registeration	
+	-login
+	-search products
+	-search categories
+	-add to cart
+	-add to wish list
+	-give feedback
+	-create order
+	-manage own profile
+	
+3. Guest
+	-search products
+	-search categories
